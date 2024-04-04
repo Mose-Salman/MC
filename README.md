@@ -29,10 +29,10 @@ A microcontroller project leveraging UART for PC communication, employing interr
 ## Diagrams & Circuit
 
 <p align="center">
-  <img src="C:\MC\C:\MC\general_program_diagram.png" alt="General Program Diagram"/>
+  <img src="images/general_program_diagram.png" alt="General Program Diagram"/>
 </p>
 
 <p align="center">
-  <img src="C:\MC\circuit_figure.png" alt="Connection and General Circuit Figure"/>
+  <img src="images/circuit_figure.png" alt="Connection and General Circuit Figure"/>
 </p>
 
