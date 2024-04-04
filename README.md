@@ -13,18 +13,11 @@ A microcontroller project leveraging UART for PC communication, employing interr
 - **Bitmap-Based Character Importing**: For detailed character visualization.
 - **Sizable ASCII Buffer**: Manages incoming character stream efficiently.
 
-## Project Structure
-
-- `src/`: Core source files for interrupt handling and display logic.
-- `Debug/`: Compiled binaries and debugging artifacts.
-- `targetConfigs/`: Microcontroller setup and configuration files.
-- `.settings/`, `.launches/`: IDE-specific configurations for Eclipse.
-
 ## Setup
 
-1. **Pre-requisites**: Eclipse IDE with C/C++ Development Tooling (CDT), toolchains for the EK-TM4C1294XL board.
+1. **Pre-requisites**:CCS,  EK-TM4C1294XL board.
 2. **Importing**: Clone and import into Eclipse; configure `targetConfigs` for the EK-TM4C1294XL board.
-3. **Building**: Compile and upload to the EK-TM4C1294XL board from Eclipse.
+3. **Building**: Compile and upload to the EK-TM4C1294XL board from CCS.
 
 ## Diagrams & Circuit
 
